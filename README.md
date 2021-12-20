@@ -7,7 +7,7 @@ The Windows Notification CLI is a small project that enables users to convenient
 
 ---
 
-### How to Use Dead by Daylight Stats Tracker CLI
+### How to Use Windows Notification CLI
 
 Using this CLI is super simple:
 
