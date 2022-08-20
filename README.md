@@ -45,4 +45,4 @@ In the near-future I will add a Pomodoro technique timer to the CLI to make it e
 
 ---
 
-**[Notion](https://knowing-letter-85f.notion.site/Windows-Notification-CLI-2373fcfab00143da9a09f307964c8fa7) | [Website](https://ali-ehtesham.carrd.co/)**
+**[Notion](https://ehtesham-ali.notion.site/Windows-Notification-CLI-2373fcfab00143da9a09f307964c8fa7) | [Website](https://ali-ehtesham.carrd.co/)**
